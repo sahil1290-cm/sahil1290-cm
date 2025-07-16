@@ -28,5 +28,7 @@
 
 Feel free to connect or reach out:  
 📧 Email: sahilmahaan12345@gmail.com 
+Education: currently a third year bs-ms student in iiser pune
+
 
 **⭐ If you find this repo helpful, feel free to star it and follow for updates!**
